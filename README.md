@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-Hello, this is my first coded with typescript. It's primitive but I think it's a good starting point for me in TS.
+Hello, this is my first progam coded with typescript. It's primitive but I think it's a good starting point for me in TS.
 
 A simple CLI timer for focus sessions and breaks.
 
